@@ -15,7 +15,7 @@ A responsive and modern personal portfolio website featuring my profile, skills,
 ## ✅ Task 2 - Landing Page  
 A stylish and responsive landing page with sections like hero, services, stats, and a contact form. Designed to be visually appealing with smooth color transitions.
 
-🔗 **Live Demo**: [Click Here](https://urvashirai587.github.io/CODSOFT/Task2-Landing%20Page/)
+🔗 **Live Demo**: [Click Here](https://urvashirai587.github.io/CODSOFT/Task2-LandingPage/)
 
 
 ---
