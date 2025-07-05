@@ -7,7 +7,7 @@ This repository contains the three Level 1 tasks I completed during my **Web Dev
 ## ✅ Task 1 - Personal Portfolio  
 A responsive and modern personal portfolio website featuring my profile, skills, projects, and contact details. Built entirely with HTML and CSS.
 
-🔗 **Live Demo**: [Click Here](https://urvashirai587.github.io/CODSOFT/Task1-Portfolio/)
+🔗 **Live Demo**: [Click Here](https://urvashirai587.github.io/CODSOFT_Task1/Task1-Portfolio/)
 
 
 ---
@@ -15,7 +15,7 @@ A responsive and modern personal portfolio website featuring my profile, skills,
 ## ✅ Task 2 - Landing Page  
 A stylish and responsive landing page with sections like hero, services, stats, and a contact form. Designed to be visually appealing with smooth color transitions.
 
-🔗 **Live Demo**: [Click Here](https://urvashirai587.github.io/CODSOFT/Task2-LandingPage/)
+🔗 **Live Demo**: [Click Here](https://urvashirai587.github.io/CODSOFT_Task1/Task2-LandingPage/)
 
 
 ---
@@ -23,7 +23,7 @@ A stylish and responsive landing page with sections like hero, services, stats, 
 ## ✅ Task 3 - Calculator  
 A basic calculator app created using HTML, CSS, and JavaScript. It supports addition, subtraction, multiplication, and division with a simple user interface.
 
-🔗 **Live Demo**: [Click Here](https://urvashirai587.github.io/CODSOFT/Task3-Calculator/)
+🔗 **Live Demo**: [Click Here](https://urvashirai587.github.io/CODSOFT_Task1/Task3-Calculator/)
 
 
 ---
